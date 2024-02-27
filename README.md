@@ -21,5 +21,5 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
 - Employs an asynchronous XMLHttpRequest to ensure non-blocking communication with the Flask Backend.
 
 ## Output
-![alt text](/extension/images/output.png?raw=true)
+![alt text](extension/images/extension.png?raw=true)
 ![alt text](/extention/images/output (2).png?raw=true)
