@@ -19,3 +19,7 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
 - Allows the user to adjust the maximum length of the summarized text through dynamic truncation.
 - Adopts a language-agnostic approach and supports transcript summarization even for videos without subtitles.
 - Employs an asynchronous XMLHttpRequest to ensure non-blocking communication with the Flask Backend.
+
+## Output
+![alt text](/extention/images/output(1).png?raw=true)
+![alt text](/extention/images/output(2).png?raw=true)
