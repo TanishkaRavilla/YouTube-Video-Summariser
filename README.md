@@ -22,4 +22,4 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
 
 ## Output
 ![alt text](extension/images/extension.png?raw=true)
-![alt text](extension/images/summaryoutput.png.png?raw=true)
+![alt text](extension/images/summaryoutput.png?raw=true)
