@@ -1,0 +1,6 @@
+# Important dependencies
+
+flask 
+youtube_transcript_api 
+transformers 
+PyTorch
